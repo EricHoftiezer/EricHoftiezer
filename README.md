@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @EricHoftiezer
+- 👀 I’m interested in AI, Typescript, doing cool stuff
+- 🌱 I’m currently learning SAP CPQ API
+- 💞️ I’m looking to collaborate on SAP CPQ Code
+- 📫 How to reach me eric.hoftiezer@accenture.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I've worked with SAP, Oracle and Salesforce CPQ
